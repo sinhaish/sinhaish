@@ -19,7 +19,7 @@ Love for Linux and support for Open Source Projects.
 
 My work:
 - Setup [DDNS with GoDaddy](https://github.com/navilg/navilg.git)
-- Contribution on [Wireguard setup](https://github.com/angristan/wireguard-install/pull/83) script
+- Contribution on [Wireguard setup](https://github.com/angristan/wireguard-install) script
 - Resolving [WiFi connectivity issue](https://github.com/navilg/rtl8723be) in Ubuntu 16.04 and 18.04 desktop.
 
 Check my repositories.
