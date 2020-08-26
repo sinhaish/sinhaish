@@ -1,6 +1,7 @@
 ### Hi there, I'm [Navratan Gupta][website] 👋
 
 [![Website](https://img.shields.io/website?label=navratangupta.in&style=for-the-badge&url=https%3A%2F%2Fnavratangupta.in)](https://navratangupta.in)
+[![Linkedin Connect]]
 [![Twitter Follow](https://img.shields.io/twitter/follow/navratan_gupta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnavilg&screen_name=navratan_gupta)
 
 ## I'm a System Engineer, Developer and Linux Enthusiast !
@@ -28,7 +29,7 @@
 
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="BASH" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/git/git.png" />
