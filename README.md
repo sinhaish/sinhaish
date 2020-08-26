@@ -48,6 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Transfer files using SFTP | Secure File Transfer Protcol | Linux](https://www.youtube.com/watch?v=7COeg4sdrSM)
+- [Make sudo ask for root password instead of logged-in user's password | ubuntu | Linux Shots](https://www.youtube.com/watch?v=5unYu5YG4mA)
+- [Schedule Tasks using Cron Table | Crontab Explained | Linux](https://www.youtube.com/watch?v=OwJC9V1PtpA)
+- [Setup Free VPN with AWS Free Tier | OpenVPN Server](https://www.youtube.com/watch?v=f12xiPkQnlA)
+- [Mount Server's file system onto local desktop/system | SSHFS | GUI with Linux Server | Linux Shots](https://www.youtube.com/watch?v=x7xA5sdUVpQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
