@@ -9,9 +9,10 @@
 - 🔭 I’m currently working on a [GoDaddy DDNS](https://github.com/navilg/godaddy-ddns)
 - 🌱 I’m currently learning GO language.
 - 👯 I’m looking to contribute to Open Source projects
+<!--
 [comment]: <> (- ⚡ Fun fact: I love to sing and read books)
 [comment]: <> (- 🥅 2020 Goals: Learn new programming & speaking language. )
-
+-->
 ### Connect with me:
 
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
