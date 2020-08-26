@@ -5,7 +5,7 @@
 
 ## I'm a System Engineer, Developer and Linux Enthusiast !
 
-- :heart: for Linux and :handshake: for Open Source Projects
+- :heart: Linux and :handshake: Open Source Projects
 - 🔭 I’m currently working on a [GoDaddy DDNS](https://github.com/navilg/godaddy-ddns)
 - 🌱 I’m currently learning GO language.
 - 👯 I’m looking to contribute to Open Source projects
