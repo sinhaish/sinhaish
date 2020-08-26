@@ -13,7 +13,7 @@
 [comment]: <> (- ⚡ Fun fact: I love to sing and read books)
 [comment]: <> (- 🥅 2020 Goals: Learn new programming & speaking language. )
 -->
-### Connect with me:
+### :handshake: Connect with me:
 
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Linux Shots | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -24,7 +24,7 @@
 
 <br />
 
-### :scroll: :gear: Languages and Tools:
+### :gear: Languages and Tools:
 
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
