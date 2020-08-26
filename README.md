@@ -24,7 +24,7 @@
 
 <br />
 
-### Languages and Tools:
+### :scroll: :gear: Languages and Tools:
 
 <img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -44,7 +44,7 @@
 
 ### :zap: Github Stats
 
- <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=navilg&show_icons=true&hide_border=true&count_private=true" />
+ <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=navilg&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
 
 </br>
