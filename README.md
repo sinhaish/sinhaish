@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a [GoDaddy DDNS](https://github.com/navilg/godaddy-ddns)
 - 🌱 I’m currently learning GO language.
 - 👯 I’m looking to contribute to Open Source projects
-- :zap: I love teaching, singing and reading books
+- :zap: I love teaching, singing, travelling and watching movies
 
 <!--
 [comment]: <> (- ⚡ Fun fact: I love to sing and read books)
