@@ -54,7 +54,7 @@
 
 ### :zap: Github Stats
 
- <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats.vercel.app/api?username=navilg&show_icons=true&hide_border=true&count_private=true&theme=dark" />
+ <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats.navilg.vercel.app/api?username=navilg&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
 
 </br>
