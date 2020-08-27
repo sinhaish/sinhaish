@@ -1,12 +1,14 @@
 ### Hi there, I'm [Navratan Gupta][website] 👋
 
 [![Website](https://img.shields.io/website?label=navratangupta.in&style=for-the-badge&url=https%3A%2F%2Fnavratangupta.in)](https://navratangupta.in)
-[![Twitter Follow](https://img.shields.io/twitter/follow/navratan_gupta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnavilg&screen_name=navratan_gupta)
+[![LinkedIn](https://img.shields.io/badge/Connect%20me-%230077B5.svg?&color=grey&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+<!--[![LinkedIn](https://img.shields.io/badge/Connect%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")][linkedin]-->
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/navratan_gupta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnavilg&screen_name=navratan_gupta) -->
 
 ## I'm a System Engineer, Developer and Linux Enthusiast !
 
 - :heart: Linux and :handshake: Open Source Projects
-- 🔭 I’m currently working on a [GoDaddy DDNS](https://github.com/navilg/godaddy-ddns)
+- 🔭 I’m currently working on a [GoDaddy DDNS](https://github.com/navilg/godaddy-ddns) and ***Aegis Vault compatible - 2FA for Linux***.
 - 🌱 I’m currently learning GO language.
 - 👯 I’m looking to contribute to Open Source projects
 - :zap: I love teaching, singing, travelling and watching movies
