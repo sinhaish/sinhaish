@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning container management using Kubernetes.
 - 👯 I’m looking to contribute to Open Source projects
 - :zap: I love teaching, travelling and watching movies
-- 🥅 2020 Goals: Learn Golang and one speaking language.
+- 🥅 2020 Goals: Learn Golang and Kubernetes.
 
 <!--
 [comment]: <> (- ⚡ Fun fact: I love to sing and read books)
