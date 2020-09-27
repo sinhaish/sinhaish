@@ -5,13 +5,14 @@
 <!--[![LinkedIn](https://img.shields.io/badge/Connect%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")][linkedin]-->
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/navratan_gupta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnavilg&screen_name=navratan_gupta) -->
 
-## I'm a System Engineer, Developer and Linux Enthusiast !
+## I'm a DevOps Engineer, Developer and a Linux Enthusiast !
 
 - :heart: Linux and :handshake: Open Source Projects
-- 🔭 I’m currently working on a [GoDaddy DDNS](https://github.com/navilg/godaddy-ddns) and ***Aegis Vault compatible - 2FA for Linux***.
-- 🌱 I’m currently learning GO language.
+- 🔭 I’m currently working on [GoDaddy DDNS](https://github.com/navilg/godaddy-ddns)
+- 🌱 I’m currently learning container management using Kubernetes.
 - 👯 I’m looking to contribute to Open Source projects
-- :zap: I love teaching, singing, travelling and watching movies
+- :zap: I love teaching, travelling and watching movies
+- 🥅 2020 Goals: Learn Golang and one speaking language.
 
 <!--
 [comment]: <> (- ⚡ Fun fact: I love to sing and read books)
