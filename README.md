@@ -9,7 +9,7 @@
 
 - :heart: Linux and :handshake: Open Source Projects
 - 🔭 I’m currently working on [GoDaddy DDNS](https://github.com/navilg/godaddy-ddns)
-- 🌱 I’m currently learning container management using Kubernetes.
+- 🌱 I’m currently learning Azure services.
 - 👯 I’m looking to contribute to Open Source projects
 - :zap: I love teaching, travelling and watching movies
 - 🥅 2020 Goals: Learn Azure and Kubernetes.
