@@ -1,4 +1,4 @@
-### Hi there, I'm [Navratan Gupta][website] 👋
+### Hi there, I'm [Aishwarya Sinha] 👋
 
 [![Website](https://img.shields.io/website?label=navratangupta.in&style=for-the-badge&url=https%3A%2F%2Fnavratangupta.in)](https://navratangupta.in)
 [![LinkedIn](https://img.shields.io/badge/Connect%20me-%230077B5.svg?&color=grey&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
